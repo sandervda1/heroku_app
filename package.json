@@ -2,12 +2,12 @@
   "name": "cyber news",
   "version": "1.0.0",
   "description": "node site",
-  "main": "index.js",
+  "main": "app.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "keywords": [
     "web",
